@@ -16,6 +16,7 @@ Pivot Charts
 Slicers
 Data Cleaning and Transformation
 Dashboard Design and Formatting
+
 📊 Dashboard Features
 Category-wise Sales Analysis – Compare sales across product categories.
 Product-wise Performance – Identify products generating the highest revenue.
@@ -23,6 +24,7 @@ Customer Location Analysis – Analyze sales distribution by city.
 Order Status Breakdown – Track completed, pending, and cancelled orders.
 Payment Method Distribution – Understand customer payment preferences.
 Interactive Slicers – Filter dashboard data dynamically by category, location, and status.
+
 🔍 Key Insights
 Electronics generated the highest sales revenue, making it the top-performing category.
 Refrigerators, Laptops, and Smartphones contributed significantly to overall sales.
